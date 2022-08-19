@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IB-computer science.iml" filepath="$PROJECT_DIR$/IB-computer science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw10/hw10.iml" filepath="$PROJECT_DIR$/hw10/hw10.iml" />
       <module fileurl="file://$PROJECT_DIR$/hw2/hw2.iml" filepath="$PROJECT_DIR$/hw2/hw2.iml" />
       <module fileurl="file://$PROJECT_DIR$/hw4/hw4.iml" filepath="$PROJECT_DIR$/hw4/hw4.iml" />
       <module fileurl="file://$PROJECT_DIR$/hw5/hw5.iml" filepath="$PROJECT_DIR$/hw5/hw5.iml" />
