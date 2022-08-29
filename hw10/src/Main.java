@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int a = 20;
-        int b = 4;
+        int a = 387;
+        int b = 6381;
         int r = 0;
         int gcd = 1;
         boolean found = false;
