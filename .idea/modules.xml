@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IB-computer science.iml" filepath="$PROJECT_DIR$/IB-computer science.iml" />
       <module fileurl="file://$PROJECT_DIR$/array_hw1/array_hw1.iml" filepath="$PROJECT_DIR$/array_hw1/array_hw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_hw2/array_hw2.iml" filepath="$PROJECT_DIR$/array_hw2/array_hw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayhw2/arrayhw2.iml" filepath="$PROJECT_DIR$/arrayhw2/arrayhw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayhw4/arrayhw4.iml" filepath="$PROJECT_DIR$/arrayhw4/arrayhw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayhw5/arrayhw5.iml" filepath="$PROJECT_DIR$/arrayhw5/arrayhw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayhw6/arrayhw6.iml" filepath="$PROJECT_DIR$/arrayhw6/arrayhw6.iml" />
       <module fileurl="file://$PROJECT_DIR$/booleanhw1/booleanhw1.iml" filepath="$PROJECT_DIR$/booleanhw1/booleanhw1.iml" />
       <module fileurl="file://$PROJECT_DIR$/booleanhw2/booleanhw2.iml" filepath="$PROJECT_DIR$/booleanhw2/booleanhw2.iml" />
       <module fileurl="file://$PROJECT_DIR$/booleanhw3/booleanhw3.iml" filepath="$PROJECT_DIR$/booleanhw3/booleanhw3.iml" />
