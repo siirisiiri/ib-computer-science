@@ -8,7 +8,7 @@ public class Main {
     }
     static int[] REMOVE (int [] I, int X, int [] OUT){
         int k = 0;
-        for (int i = 0; i < 100; i++){
+        for (int i = 0; i < 11; i++){
             if (i > I.length - 1){
                 for (int s = i - k; s < i; s++)
                     OUT [s] = 0;
